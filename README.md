@@ -31,15 +31,21 @@ The bot is available under a commercial license. To purchase:
 
 ## 📸 Демонстрация / Demo
 
-![Screenshot 1](docs/screenshot1.png)
+![Screenshot 1](screenshot1.png)
 *Главное меню / Main menu*
 
-![Screenshot 2](docs/screenshot2.png)
+![Screenshot 2](screenshot2.png)
 *Процесс копирования / Copying process*
+
+![Screenshot 3](screenshot3.png)
+*помощь / Help*
+
+![Screenshot 4](screenshot4.png)
+Авторизация / Autorization*
 
 ## ⚖️ Лицензия / License
 
-Copyright © 2025 Druganchik2 ([@ynglord](https://t.me/ynglord))
+Copyright © 2025 Druganchik ([@ynglord](https://t.me/ynglord))
 
 Проприетарное ПО. Все права защищены. Модификация и распространение только с разрешения владельца.
 Proprietary software. All rights reserved. Modification and distribution require owner's permission.
