@@ -56,5 +56,6 @@ Proprietary software. All rights reserved. Modification and distribution require
 ## 📞 Контакты / Contacts
 - kwork: https://kwork.ru/script-programming/46114099/tg-bot-avtokopirovanie-postov
 - Telegram: [@ynglord](https://t.me/ynglord)
-
+- Telegram: https://t.me/copyback
 - Время ответа: обычно в течение часа / Response time: usually within an hour
+
